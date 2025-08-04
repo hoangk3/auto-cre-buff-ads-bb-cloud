@@ -1,4 +1,5 @@
 🔧 Hướng Dẫn Cài Đặt Trên Máy Tính (Windows)
+ neu ban co thac mac hay vo discord hoi minh : https://discord.gg/nd7mkBFpd8
 📌 Bước 1: Cài đặt các phần mềm cần thiết
 ✔️ 1.1 Cài Python 3:
 Tải từ: https://www.python.org/downloads/
@@ -97,16 +98,6 @@ Thêm retry nâng cao, xử lý captcha (nếu có)
 Bạn đang cần mình hỗ trợ phần nào tiếp theo? Hay bạn đã sẵn sàng chạy luôn trên nền mới?
 
 
-
-
-
-
-
-Bạn đã nói:
-bây h lm sao để chạy 
-
-
-ChatGPT đã nói:
 Để chạy tool BB-cloud-cli trên máy tính Windows (hoặc Linux), bạn làm theo từng bước sau:
 
 ✅ Bước 1: Cài Python & Git (nếu chưa có)
@@ -199,5 +190,6 @@ wmic nic get Name,NetConnectionID,AdapterTypeID,NetEnabled /format:table
 echo -------------------------------------
 
 pause
+
 
 
